@@ -87,7 +87,7 @@ npm run build
 
 **首页**
 
-![](https://github.com/xixiaoyue/xiaomi-store/master/public/screenshots/home.png)
+https://github.com/xixiaoyue/xiaomi-store/master/public/screenshots/home.png
 
 **全部商品**
 
