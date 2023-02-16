@@ -83,33 +83,3 @@ npm run serve
 
 npm run build
 ```
-## 页面截图
-
-**首页**
-
-https://github.com/xixiaoyue/xiaomi-store/master/public/screenshots/home.png
-
-**全部商品**
-
-![](https://github.com/xixiaoyue/xiaomi-store/master/public/screenshots/goods.png)
-
-**购物车**
-
-![](https://github.com/xixiaoyue/xiaomi-store/master/public/screenshots/shoppingCart.png)
-
-**我的收藏**
-
-![](https://github.com/xixiaoyue/xiaomi-store/master/public/screenshots/collect.png)
-
-**我的订单**
-
-![](https://github.com/xixiaoyue/xiaomi-store/master/public/screenshots/order.png)
-
-**登录**
-
-![](https://github.com/xixiaoyue/xiaomi-store/master/public/screenshots/login.png)
-
-**注册**
-
-![](https://github.com/xixiaoyue/xiaomi-store/master/public/screenshots/register.png)
-
